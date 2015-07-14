@@ -1,0 +1,5 @@
+# median-and-word-count-of-tweets
+
+COUNTING WORD FREQUENCY AND MEDIAN OF UNIQUE WORDS COUNT FOR ALL TWEETS:
+
+1- 
